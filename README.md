@@ -1,5 +1,5 @@
 ### Hello!
-I am DS in NLP & CV
-habr: habr.com/ru/users/kitaisky/
-telegram: https://t.me/kitaiskypanda
-mail: kitaiskypanda@gmail.com
+I am DS in NLP & CV</br>
+habr: habr.com/ru/users/kitaisky/</br>
+telegram: https://t.me/kitaiskypanda</br>
+mail: kitaiskypanda@gmail.com</br>
