@@ -2,7 +2,7 @@
 Data scientist in VK VIDEO</br>
 telegram: @kitaiskypanda</br>
 mail: kitaiskypanda@gmail.com</br>
-articles: habr.com/ru/users/kitaisky/</br>
+articles: [habr.com/ru/users/kitaisky/](habr.com/ru/users/kitaisky/)</br>
 #### Skills
 | ML | NLP | CV | RecSys/Search | Tools |
 | --- | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ articles: habr.com/ru/users/kitaisky/</br>
   * XTR
   * CRNN
   * Classic computer vision
-* RecSys/Search
+* RecSys/Search:
   * Content embeddings
   * Ranking
   * A/B  
