@@ -4,11 +4,11 @@ telegram: @kitaiskypanda</br>
 mail: kitaiskypanda@gmail.com</br>
 articles: habr.com/ru/users/kitaisky/</br>
 #### Skills
-| ML | NLP | CV | Tools |
-| --- | --- | --- | --- |
-| Pytorch | BERT, GTP3, T5 | OpenCV | Linux, bash |
-| Transformers | pymystem, pymorphy | YOLO, VGG | Docker, Git, Jira |
-| Classic ML | nltk, gensim, natasha | ResNet, U-Net | SQL, ElasticSearch |
+| ML | NLP | CV | RecSys/Search | Tools |
+| --- | --- | --- | --- | --- |
+| Pytorch | BERT, GTP3, T5 | OpenCV | Catboost |Linux, git, docker|
+| Transformers | pymystem, pymorphy | YOLO, VGG | FAISS, HNSW| Hadoop, PySpark, Airflow, MLflow|
+| Classic ML | nltk, gensim, natasha | ResNet, U-Net | Content embeddings |SQL, ElasticSearch, Clickhouse |
 #### Expertise
 * NLP:
   * Classification
@@ -32,3 +32,7 @@ articles: habr.com/ru/users/kitaisky/</br>
   * XTR
   * CRNN
   * Classic computer vision
+* RecSys/Search
+  * Content embeddings
+  * Ranking
+  * A/B  
