@@ -3,7 +3,6 @@ Data scientist in 2GIS</br>
 telegram: @kitaiskypanda</br>
 mail: kitaiskypanda@gmail.com</br>
 articles: [habr.com/ru/users/kitaisky/](habr.com/ru/users/kitaisky/)</br>
-CV: [pdf](https://github.com/shitkov/shitkov/blob/main/shitkov_CV_2023-01.pdf)</br>
 #### Skills
 | ML | NLP | CV | RecSys/Search | Tools |
 | --- | --- | --- | --- | --- |
