@@ -1,5 +1,5 @@
 ### Shitkov Konstantin
-Data scientist in VK VIDEO</br>
+Data scientist in 2GIS</br>
 telegram: @kitaiskypanda</br>
 mail: kitaiskypanda@gmail.com</br>
 articles: [habr.com/ru/users/kitaisky/](habr.com/ru/users/kitaisky/)</br>
